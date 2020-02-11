@@ -1,2 +1,2 @@
 # Licencjat
-BA thesis code files
+Python code relating to my BA thesis: experiment & EEG data analysis
